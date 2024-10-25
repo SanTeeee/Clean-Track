@@ -7,7 +7,6 @@ import Navbar from "./LandingPage/navbar/Navbar";
 function App() {
   return (
     <>
-      <Navbar />
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/Login" element={<Login />} />

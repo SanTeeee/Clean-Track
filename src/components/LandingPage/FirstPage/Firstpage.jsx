@@ -14,6 +14,7 @@ const Firstpage = () => {
 
     return () => clearInterval(intervalId);
   }, []);
+  console.log(texts.length);
 
   return (
     <div className="firstPageCont">
