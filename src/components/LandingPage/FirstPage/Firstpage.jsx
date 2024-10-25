@@ -1,5 +1,5 @@
 import React from "react";
-import "./firstpage.css";
+import "./Firstpage.css";
 import Ellipse from "../../../assets/Ellipse.png";
 import GirlImage from "../../../assets/girl with basket.png";
 
