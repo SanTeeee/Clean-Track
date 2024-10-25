@@ -14,7 +14,6 @@ function Navbar() {
         <NavLink to="/">How it works</NavLink>
         <NavLink to="">About</NavLink>
         <NavLink to="">Services</NavLink>
-        <NavLink to="">Login</NavLink>
       </div>
       <div className="login">
         <NavLink to="/Login">Login</NavLink>

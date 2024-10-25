@@ -15,7 +15,7 @@ body {
 
   position: relative;
 
-  width: 100%;
+  width: 100vw;
 }
 .error {
   display: flex;
@@ -53,6 +53,9 @@ button {
 .buttons {
   margin-top: 30px;
 }
+
+.writeUpCont {
+}
 .writeUpCont a {
   margin-right: 8px;
   text-decoration: none;
@@ -71,7 +74,9 @@ button {
   background-color: #287bdd;
   color: #fff;
 }
-
+.writeUp {
+  height: 152px;
+}
 .writeUp span {
   background-color: white;
   padding: 0 6px;
