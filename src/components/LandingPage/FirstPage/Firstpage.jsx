@@ -4,7 +4,7 @@ import Ellipse from "../../../assets/Ellipse.png";
 import GirlImage from "../../../assets/girl with basket.png";
 
 const Firstpage = () => {
-  const texts = ["Client's", "Inventory", "Notfications and"];
+  const texts = ["client's", "inventory", "notifications and"];
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
 
   useEffect(() => {

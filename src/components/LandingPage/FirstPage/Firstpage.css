@@ -79,9 +79,10 @@ button {
 }
 .writeUp span {
   background-color: white;
-  padding: 0 6px;
+  padding: 0 10px;
   margin-right: 4px;
   border-radius: 5px;
+  opacity: 2s ease;
 }
 
 .girlImage {
